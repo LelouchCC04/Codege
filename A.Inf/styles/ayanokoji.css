@@ -1,0 +1,190 @@
+body{
+    background-color: #e2e2e2;
+    border: dashed #b13924 5px;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+#Voltar{
+    margin-top: -70px;
+    margin-bottom: -50px;
+    font-size: 55px;
+    margin-left: 10px;  
+}
+
+#Voltar a{
+    text-decoration: none;
+    color: #421ea3;
+}
+/* img Grande */
+
+.imgGrande{
+    margin-top: -80px;
+    margin-left: 100px;
+
+}
+
+/* img pequena */
+
+figure img{
+    border: #da0505 solid 2px;
+    margin-top: -70px;
+    margin-left: 100px;
+}
+figcaption{
+    font-size: 2.5em;
+    margin-left: 250px;
+    margin-top: -60px;
+    border-bottom: double #da0505 5px;
+    width: 350px;
+}
+
+
+/* tabela */
+
+table{
+    margin-top: 80px;
+    margin-left: 110px;
+}
+
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+.tg .tg-vozesrespo{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-vozes{border-color:inherit;text-align:left;vertical-align:top}
+
+.tg .tg-aparespo{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-apare{border-color:inherit;text-align:left;vertical-align:top}
+
+
+
+
+.tg-0pky, .tg-apare, .tg-vozes{
+    color: #8725b4;
+    
+    
+}
+
+.tg th{
+    background-color: #ff0000;
+    border: none;
+    
+}
+
+/*História*/
+
+.historia{
+    margin-left: 440px;
+    margin-top: -530px;
+    margin-right: 150px;
+}
+
+.historia h1{
+    font-size: 35px;
+    text-align: center;
+    /* border-bottom: #550db4 dotted 10px; */
+
+
+}
+
+.historia img{
+    margin-left: 80px;
+    border: #da0505 double 10px;
+
+    
+}
+
+.historia p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.centro{
+    text-align: center;
+    margin-top: -50px;
+}
+
+.olho{
+    margin-top: -30px;
+}
+
+#citacao1{
+    border: solid #ff4500;
+    padding: 5px;
+}
+
+#citacao2{
+    border: solid #ff0800;
+    padding: 5px;
+}
+
+#citacao3{
+    border: solid #ff0037;
+    padding: 5px;
+}
+
+
+/*Galeria*/
+.galeriaInaho h2{
+    font-size: 35px;
+}
+
+.galeriaInaho p{
+    font-size: 35px;
+}
+.galeriaInaho{
+    margin-left: 100px;
+    border: #ff0000 dashed 2px;
+    text-align: center;
+    margin-right: 50px;
+    
+}
+
+.galeriaInaho img{
+    display: inline-block;
+    padding: 10px;
+    border: #dd078f double 3px;
+    margin: 5px;
+    
+}
+
+.comen{
+    font-size: 100px;
+    margin-left: 100px;
+}
+
+fieldset{
+    margin-left: 100px;
+    margin-top: -130px;
+    margin-right: 50px;
+
+}
+
+form li{
+    overflow: hidden;
+
+} 
+
+form input{
+    width: 500px;
+    padding: 5px;
+    
+}
+
+#comenbtn{
+    width: 100px;
+    margin-left: 350px;
+    padding: 0px;
+    margin-bottom: 15px;
+}
+

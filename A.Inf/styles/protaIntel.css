@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(217, 233, 232);
+}
+
+#Voltar{
+    font-size: 40px;
+    margin-top: -30px;
+}
+
+header{
+    border: 1px solid #c9cecd;
+    color: #807b7b;
+    text-align: center;    
+    font-size: 60px;
+}
+
+.protaIntel{
+    text-align: center;
+}
+
+.nomeProtaIntel h1{
+    border: none;
+    color: #d15050;
+}
+
+.nomeProtaIntel figure{
+    border: 1px solid #b67f7f;
+    background-color: #50add1;
+    
+}
+
+
+.infoIntel {   
+    text-align: center;
+    font-size: 15px;
+    border: #a91505 solid;
+    padding: 15px;
+
+}

@@ -1,0 +1,80 @@
+//CSS
+
+body{    
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #dce8e2;
+    
+
+}
+
+.inahoInfo figure img{
+    background-color: #ff0000;
+    border: #fff700 solid 3px;
+    padding: 3px;
+    margin-top: -100px;
+    margin-left: -15px;
+    position: relative;
+
+}
+
+figure figcaption{
+    font-size: 35px;
+    color: #663399;
+    position: relative;
+  
+}
+
+
+------------------------------
+
+//HTML
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Inaho Kaizuka</title>
+
+        <link rel="stylesheet" href="/styles/inaho.css">
+
+    </head>
+    <body>
+        <a href="protaIntel.html">Voltar</a>
+
+        <header class="itensHeader">
+            <div class="inahoWiki">
+
+                <img src="/imgProtagonistas/inacss.png" alt="">
+                       
+            <div class="inahoInfo">
+                 
+                <figure>      
+                    <img src="/imgProtagonistas/miniInhaho.jpg" alt="">
+                    <figcaption>Inaho Kaizuka</figcaption>
+                </figure>
+
+                <div class="conteinerInaho">
+                    
+                    <section>
+                        <article>
+                            
+                        </article>                    
+                    </section>
+
+
+                </div>
+
+            </div>
+            
+        </div>
+        </header>
+        
+        
+    </body>
+</html>
